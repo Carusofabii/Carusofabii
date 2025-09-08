@@ -1,5 +1,3 @@
-<!-- Copertina -->
-"47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg"
 
 <div align="center">
 
