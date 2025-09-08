@@ -1,10 +1,10 @@
 <!-- Copertina -->
-47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg
+"47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg"
 
 <div align="center">
 
   <!-- Foto profilo -->
-  <img src=47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg alt="Foto Profilo" width="150" style="border-radius:50%">
+  <img src="47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg" alt="Foto Profilo" width="150" style="border-radius:50%">
 
   👋 Ciao, sono Fabiola 
 
