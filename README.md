@@ -1,4 +1,4 @@
-https://chatgpt.com/s/m_68be54cdd8448191ad0714dec27977a0
+"C:\Users\fabio\Downloads\Analisi Dati e Visualizzazione.png"
 <div align="center">
 
   <!-- Foto profilo -->
