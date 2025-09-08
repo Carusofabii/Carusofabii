@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Fabiola 
 
-<img src="https://avatars.githubusercontent.com/TUO-USERNAME" alt="Foto Profilo" width="150" style="border-radius:50%">
+<img src="[https://avatars.githubusercontent.com/TUO-USERNAME](https://github.com/Carusofabii/Carusofabii/blob/main/47f5dda6-22e2-4ad8-a213-2cefa76857f6%20(2).jpg)" alt="Foto Profilo" width="150" style="border-radius:50%">
 
 🎓 Laureanda in Economia con passione per Data Analytics e Business Intelligence.  
 📊 Mi piace trasformare i dati in insight concreti, unendo competenze di analisi, statistica ed economia.  
