@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Fabiola 
 
-<img src="foto.jpg" alt="Foto Profilo" width="150" style="border-radius:50%">
+<img src="47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg" alt="Foto Profilo" width="150" style="border-radius:50%">
 
 
 🎓 Laureanda in Economia con passione per Data Analytics e Business Intelligence.  
