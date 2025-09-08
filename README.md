@@ -1,4 +1,4 @@
-"C:\Users\fabio\Downloads\Analisi Dati e Visualizzazione.png"
+
 <div align="center">
 
   <!-- Foto profilo -->
