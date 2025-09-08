@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Ciao, sono Fabiola 
 
-<!--
-**Carusofabii/Carusofabii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/TUO-USERNAME" alt="Foto Profilo" width="150" style="border-radius:50%">
 
-Here are some ideas to get you started:
+🎓 Laureanda in Economia con passione per Data Analytics e Business Intelligence.  
+📊 Mi piace trasformare i dati in insight concreti, unendo competenze di analisi, statistica ed economia.  
+🔍 Obiettivo: diventare Data Analyst contribuendo a decisioni guidate dai dati.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 Competenze Tecniche  
+- Analisi Dati: Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Database: MySQL  
+- BI Tools: Power BI
+- Altro: Excel avanzato, Data Cleaning, Data Visualization  
+
+
+
+🌟 Progetti in evidenza  
+ 
+
+
+
+
+📊 Statistiche GitHub  
+
+
+
+📫 Contatti  
+- LinkedIn: www.linkedin.com/in/fabiola-caruso-a27196247
+- ✉️ Email: fabiolacaruso@outlook.it  
+
+---
+
+💡 “I dati raccontano una storia, il mio lavoro è saperla leggere e comunicarla.”
+
