@@ -6,7 +6,7 @@
 
   👋 Ciao, sono Fabiola 
 
-  🎓 Laureanda in Economia con passione per **Data Analytics** e **Business Intelligence**  
+  🎓 Neolaureata in Economia con passione per **Data Analytics** e **Business Intelligence**  
   📊 Trasformo i dati in insight utili, unendo analisi, statistica ed economia  
   🔍 Obiettivo: diventare **Data Analyst** e supportare decisioni guidate dai dati  
 
