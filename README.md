@@ -4,36 +4,24 @@
   <!-- Foto profilo -->
   <img src="47f5dda6-22e2-4ad8-a213-2cefa76857f6 (2).jpg" alt="Foto Profilo" width="150" style="border-radius:50%">
 
-  👋 Ciao, sono Fabiola 
+🎓 Laureata in Economia con interesse per Data Analytics, Business Intelligence e Controllo di Gestione
 
-  🎓 Neolaureata in Economia con passione per **Data Analytics** e **Business Intelligence**  
-  📊 Trasformo i dati in insight utili, unendo analisi, statistica ed economia  
-  🔍 Obiettivo: diventare **Data Analyst** e supportare decisioni guidate dai dati  
+📊 Sviluppo dashboard e modelli di analisi dati utilizzando Power BI, Excel, SQL e Power Query, trasformando dati economici e operativi in insight utili per il business.
 
-</div>
+🚀 Attualmente sto approfondendo strumenti di Business Intelligence e Data Analysis attraverso progetti pratici focalizzati su reporting, KPI, automazione e analisi delle performance aziendali.
 
+🛠️ Competenze Tecniche
+• Power BI (DAX, Data Modeling, KPI Dashboard)
+• Excel avanzato & Power Query
+• SQL (JOIN, aggregazioni, query analysis)
+• Python (base)
+• Data Cleaning & Data Visualization
 
+🌟 Portfolio Projects
+• Analisi Costi Trasferte Aziendali
+• Sales & Customer Analysis
+• Zara Sales Analysis
 
-🚀 Competenze Tecniche  
-- Analisi Dati: Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Database: MySQL 
-- BI Tools: Power BI  
-- Altro: Excel avanzato, Data Cleaning, Data Visualization  
-
-
-🌟 Progetti in evidenza  
-
-
-
-
-📊 Statistiche GitHub  
-
-
----
-
-## 📫 Contatti  
-- www.linkedin.com/in/fabiola-caruso-a27196247
-- ✉️ Email: fabiolacaruso@outlook.it
 
 ---
 
