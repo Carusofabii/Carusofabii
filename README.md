@@ -31,4 +31,6 @@
 
 </div>
 
+Linkedin : www.linkedin.com/in/fabiola-caruso
 
+E-mail: fabiolacaruso@outlook.it
